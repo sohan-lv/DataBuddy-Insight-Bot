@@ -1,3 +1,5 @@
+> Made by Sohan L V | University of South Florida |
+
 # DataBuddy Purchase Insight Bot
 
 An interactive AI chatbot built using **Botpress** that analyzes purchase order data and answers business-focused questions like:
