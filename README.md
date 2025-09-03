@@ -33,7 +33,7 @@ The dataset contains:
 
 ## Screenshots
 
-### hatbot UI
+### Chatbot UI
 
 ![Bot UI](assets/bot_webpageUI.png)
 
