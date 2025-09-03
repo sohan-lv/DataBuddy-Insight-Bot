@@ -31,6 +31,21 @@ The dataset contains:
 - "Which vendor had the highest estimated revenue?"
 - "Show purchase orders sorted by profit."
 
+## Screenshots
+
+### hatbot UI
+
+![Bot UI](assets/bot_webpageUI.png)
+
+### 📌 Sample Bot Response - 1
+
+![Sample Bot Response](assets/demo1.png)
+
+### 📌 Sample Bot Response - 2
+
+![Sample Bot Response](assets/demo2.png)
+
+
 ## Hosting Instructions
 
 This chatbot was hosted on an internal server via Cyberduck (SFTP). To host it elsewhere:
